@@ -3,7 +3,9 @@
 Welcome to Angular!
 
 This tutorial introduces you to the essentials of Angular by walking you through a simple e-commerce site with a catalog, shopping cart, and check-out form.
-To help you get started right away, this guide uses a simple ready-made application that you can examine and play with interactively.
+To help you get started right away, this guide uses a simple ready-made application that you can examine and play with interactively. 
+
+ > If you have not installed Angular yet, you will need to first get set up. See https://angular.io/guide/setup-local. 
 
 <div class="callout is-helpful">
 <header>New to web development?</header>
